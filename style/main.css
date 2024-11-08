@@ -1,0 +1,13 @@
+/* ====================
+ * APP STYLE 
+ * ====================
+ *
+ * Change the style of the app here.
+ * In most of the cases, it should suffice to change the CSS variables.
+ */
+:root {
+    /* 
+     * Overwrite variables here.
+     * Please refer to https://github.com/nova-forms/nova-forms/blob/main/style/variables.css.
+     */
+}
